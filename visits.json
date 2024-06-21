@@ -1,0 +1,32 @@
+[
+  {
+    "visitId": 101,
+    "providerId": 1,
+    "patientId": 1001,
+    "visitMonth": "March"
+  },
+  {
+    "visitId": 102,
+    "providerId": 1,
+    "patientId": 1002,
+    "visitMonth": "Jan"
+  },
+  {
+    "visitId": 103,
+    "providerId": 2,
+    "patientId": 1003,
+    "visitMonth": "Feb"
+  },
+  {
+    "visitId": 104,
+    "providerId": 2,
+    "patientId": 1004,
+    "visitMonth": "Feb"
+  },
+  {
+    "visitId": 105,
+    "providerId": 3,
+    "patientId": 1005,
+    "visitMonth": "Jan"
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "providerId": 1,
+    "name": "Dr. Smith",
+    "specialty": "Cardiology"
+  },
+  {
+    "providerId": 2,
+    "name": "Dr. Johnson",
+    "specialty": "Pediatrics"
+  },
+  {
+    "providerId": 3,
+    "name": "Dr. Brown",
+    "specialty": "Dermatology"
+  }
+]
